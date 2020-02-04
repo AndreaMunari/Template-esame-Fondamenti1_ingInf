@@ -1,4 +1,4 @@
-//Munari Andrea 0000914901 <num_prova_esame>
+//<cognome_nome> <num_matricola> <num_prova_esame>
 #define _CRT_SECURE_NO_WARNINGS
 #include "element.h"
 #include "sort.h"
